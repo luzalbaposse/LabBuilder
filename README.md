@@ -16,12 +16,17 @@ This stack can change during the development.
 ### Phase 1: Foundation
 - [x] Conduct research on existing platforms (Prolific and Psytoolkit)
 - [x] Finalize Tech Stack Selection
-- [ ] Create Basic UI/UX Wireframes
+- [x] Create Basic UI/UX Wireframes
+
+
 
 ### Phase 2: Core Development
 - [ ] Implement User Authentication & Authorization
 - [ ] Design Database Schema
 - [ ] Develop Experiment Design Module
+        - [ ] Forms
+        - [ ] Stroop Test
+        - [ ] Flow design
 - [ ] Establish Data Collection & Storage Mechanism
 
 ### Phase 3: Alpha Testing
